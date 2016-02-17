@@ -1,0 +1,27 @@
+planets,element,percentage
+MERCURY,Oxygen,42
+MERCURY,Sodium,29
+MERCURY,Hydrogen,22
+MERCURY,Other Gases,7
+VENUS,Carbon Dioxide,96
+VENUS,Nitrogen,3
+VENUS,Other Gases,1
+EARTH,Nitrogen,78
+EARTH,Oxygen,21
+EARTH,Other Gases,7
+MARS,Carbon Dioxide,95
+MARS,Nitrogen,3
+MARS,Other Gases,2
+JUPITER,Hydrogen,90
+JUPITER,Helium,9
+JUPITER,Other Gases,1
+SATURN, Hydrogen, 96
+SATURN, Helium, 3
+SATURN, Other Gases, 1
+URANUS, Hydrogen, 83
+URANUS, Helium, 15
+URANUS, Methane, 2
+NEPTUNE, Hydrogen, 80
+NEPTUNE, Helium, 19
+NEPTUNE, Methane, 1
+
